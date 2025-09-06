@@ -1,3 +1,9 @@
+---
+title: skillsculptor
+app_file: app.py
+sdk: gradio
+sdk_version: 5.44.1
+---
 # SkillSculptor
 
 Multi-agent workforce planning assistant that analyzes skills, identifies project staffing gaps, and suggests upskilling paths. A coordinator agent orchestrates specialized worker agents (skill matching, gap coverage, upskilling, reporting, and guardrails) and serves responses via a Gradio chat UI with optional short-term or long-term memory.
