@@ -17,8 +17,7 @@ chatllm = OpenAI(
     api_key=google_api_key
 )
 
-# Helper constant for model name
 client = OpenAIChatCompletionsModel(
     openai_client=asyncllm,
-     model="gemini-2.5-flash" # Or another Gemini model like gemini-2.5-pro, gemini-1.5-flash etc.
+     model="gemini-2.5-flash"
 )

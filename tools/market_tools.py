@@ -21,7 +21,6 @@ def fetch_job_trends():
     try: 
         raw_text = scrape_web_trends()
 
-        # Prompt Gemini to extract skills
         response = chatllm.chat.completions.create(
             model="gemini-2.5-flash",
             messages=[

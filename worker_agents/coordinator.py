@@ -7,7 +7,6 @@ from worker_agents.reporter import reporter_agent
 from worker_agents.guardian import guardian_agent
 from worker_agents.upskill import upskill_agent
 
-# --- Tools setup ---
 skill_matching_agent_as_tool = skill_matching_agent.as_tool(
     tool_name="skill_matching_agent",
     tool_description="This agent is specialized in matching project requirements to benched employees."
@@ -23,7 +22,7 @@ guardian_agent_as_tool = guardian_agent.as_tool(
     tool_description="This agent examines user input or final response for guardrail violations and logs if necessary"
 )
 
-# --- Coordinator Agent ---
+
 coordinator = Agent(
     name="Coordinator",
     model=client,
