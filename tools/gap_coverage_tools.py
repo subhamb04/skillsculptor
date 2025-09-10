@@ -1,8 +1,8 @@
 from agents import function_tool
 import pandas as pd
 
-EMP_PATH = "data/employees.csv"
-PROJ_PATH = "data/projects.csv"
+EMP_PATH = "sample_data/employees.csv"
+PROJ_PATH = "sample_data/projects.csv"
 
 def load_employees():
     df = pd.read_csv(EMP_PATH)

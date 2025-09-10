@@ -1,0 +1,21 @@
+emp_id,name,skills,status,location
+201,Amit Verma,"Java; Spring; Docker",Benched,Delhi
+202,Sneha Kulkarni,"Python; ML; AWS",Deployed,Bengaluru
+203,Rajesh Mehta,"React; Node; SQL",Benched,Hyderabad
+204,Neha Sharma,"Angular; Java; AWS",Deployed,Pune
+205,Vikram Gupta,"Python; Tableau; ML",Benched,Chennai
+206,Priya Nair,"Kubernetes; Docker; AWS",Deployed,Mumbai
+207,Suresh Reddy,"Java; Spring; SQL",Benched,Bengaluru
+208,Kavita Joshi,"GenAI; Python; Vector DB",Deployed,Delhi
+209,Rohit Das,"React; Node; AWS",Benched,Pune
+210,Anjali Menon,"Python; ML; Tableau",Deployed,Hyderabad
+211,Deepak Singh,"Java; Angular; SQL",Benched,Chennai
+212,Isha Kapoor,"AWS; Kubernetes; Docker",Deployed,Remote
+213,Karan Malhotra,"Python; SQL; Tableau",Benched,Mumbai
+214,Shweta Patil,"GenAI; Python; ML",Deployed,Pune
+215,Aditya Mishra,"React; Node; Angular",Benched,Bengaluru
+216,Divya Sinha,"Java; Spring; AWS",Deployed,Hyderabad
+217,Rakesh Jain,"Python; ML; Vector DB",Benched,Chennai
+218,Pooja Desai,"SQL; Tableau; Python",Deployed,Delhi
+219,Nitin Agarwal,"Docker; Kubernetes; AWS",Benched,Mumbai
+220,Sonal Kulkarni,"Java; React; Spring",Deployed,Pune

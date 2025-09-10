@@ -63,7 +63,7 @@ python app.py
 - In the UI, choose memory mode (Short-term vs Long-term) and start chatting about staffing, skills, or gaps.
 
 ## Data and outputs
-- Input data: CSVs in `data/`
+- Input data: CSVs in `sample_data/`
 - Generated reports: Markdown/text in `reports/`
 
 ## Tracing and observability

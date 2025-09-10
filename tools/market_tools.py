@@ -3,7 +3,7 @@ import pandas as pd
 import feedparser
 from ai_clients.gemini_client import chatllm
 
-MARKET_FALLBACK_PATH = "data/market_trends.csv"
+MARKET_FALLBACK_PATH = "sample_data/market_trends.csv"
 
 def load_fallback_market_trends():
     df = pd.read_csv(MARKET_FALLBACK_PATH)

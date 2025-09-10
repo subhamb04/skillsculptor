@@ -1,7 +1,7 @@
 import pandas as pd
 from agents import function_tool
 
-UPSKILL_PATH = "data/upskill.csv"
+UPSKILL_PATH = "sample_data/upskill.csv"
 
 @function_tool
 def get_upskill_courses():
